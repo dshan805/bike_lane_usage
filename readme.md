@@ -69,5 +69,5 @@ The project requires Python 3.8+ and the following Python libraries:
 
 1. Clone the repository.
    ```bash
-   git clone https://github.com/dshan805/bike_lane_usage_vancouver.git
+   git clone https://github.com/dshan805/bike_lane_usage.git
    cd bike-lane-usage-vancouver
